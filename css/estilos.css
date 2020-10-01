@@ -1,0 +1,64 @@
+header {
+    background-color: #005bb3;
+    color: #ffffff;
+    font-family: "Arial Narrow", sans-serif;
+    text-align: center;
+  }
+
+h1 {
+    
+    color:#111010;
+    font-family: "Arial Narrow", sans-serif;
+    text-align: left;
+}
+
+h1 {
+  font-family: "Arial Narrow", sans-serif;
+  text-align: left;
+}
+
+nav {
+    background-color:  #dde7f0;
+    color:#111010;
+    font-family: "Arial Narrow", sans-serif;
+    text-align: left;
+    padding-left: 15 px;
+  }
+
+a{
+    color: #ffffff;
+    font-family: "Arial Narrow", sans-serif;
+    text-align: left;
+}
+
+img {
+  max-width:100%;
+}
+
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  
+}
+
+footer{
+  width: 100%;
+   
+  top: 0;
+  left: 0;
+  background: linear-gradient(-90deg,rgb(243, 188, 86) ,rgb(163, 107, 2));
+
+}
